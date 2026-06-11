@@ -17,8 +17,8 @@ You can also add:
 
 * 📍 Huntsville, Texas
 * 🎓 Sam Houston State University
-* 📧 Your email
-* 🔗 LinkedIn profile
+* 📧 sajanthakuri224@gmail.com
+* 🔗 sajan thakuri
 * 🌱 Currently learning: Networking, Cloud Computing, Cybersecurity, and Machine Learning
 
 <!---
