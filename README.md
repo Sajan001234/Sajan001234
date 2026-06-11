@@ -1,6 +1,6 @@
-- Hi there, I’m Darshan Dahal 👋
+- Hi there, I’m Sajan Thakuri. 👋
 
-I’m a Computer Science graduate student and Network Specialist Intern with a passion for technology, networking, cybersecurity, data analysis, and software development.
+I’m a Computer Science Undergraduate student and Network Specialist Intern with a passion for technology, networking, cybersecurity, data analysis, and software development.
 
 I enjoy building practical solutions, exploring new technologies, and continuously expanding my technical skills through real world projects and hands on experience. My interests include computer networks, cloud computing, machine learning, data science, and IT infrastructure.
 
